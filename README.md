@@ -1,4 +1,3 @@
-#Computer Vision Assignment 1
 OpenCV Image Processing Fundamentals
 
 A beginner-friendly Python project covering fundamental image-processing operations using OpenCV, NumPy, and Matplotlib.
